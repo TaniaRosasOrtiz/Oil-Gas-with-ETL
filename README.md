@@ -20,4 +20,4 @@ Then, we developed an ETL structure of how we were going to develop our project 
 
 After running the code (seen in Jupyter Notebook files), this is the result obtained from loading the information into PgAdmin
 
-![image](https://user-images.githubusercontent.com/75647054/114287183-955aec80-9a2a-11eb-9c83-e4f7dae1d51a.png)
+![image](DB_Logs.jpg)
