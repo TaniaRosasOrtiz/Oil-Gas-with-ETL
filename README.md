@@ -11,7 +11,8 @@ The two data sources used in this project came from the following websites:
 
 After analyzing the two data and coming up with what outcome was wanted out of them, this diagram was formed:
   
-![image](https://user-images.githubusercontent.com/75647054/114287170-78beb480-9a2a-11eb-8efd-452056d489e6.png)
+![image](https://user-images.githubusercontent.com/75647054/114287453-81b08580-9a2c-11eb-8848-e3b99b3b698b.png)
+
 
 Then, we developed an ETL structure of how we were going to develop our project and its outcome.
 
