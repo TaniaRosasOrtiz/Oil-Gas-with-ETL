@@ -16,7 +16,7 @@ After analyzing the two data and coming up with what outcome was wanted out of t
 
 Then, we developed an ETL structure of how we were going to develop our project and its outcome.
 
-![image](The Process (overview).png)
+![image](The_Process_(overview).png)
 
 After running the code (seen in Jupyter Notebook files), this is the result obtained from loading the information into PgAdmin
 
